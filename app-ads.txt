@@ -1,2 +1,2 @@
-# app-ads.txt da Neural Games — vendedores autorizados dos anúncios dos nossos apps
+# app-ads.txt da Neural Pixel Play — vendedores autorizados dos anúncios dos nossos apps
 google.com, pub-1194258356345572, DIRECT, f08c47fec0942fa0

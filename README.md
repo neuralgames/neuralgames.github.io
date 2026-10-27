@@ -1,6 +1,6 @@
 # neuralgames.github.io
 
-Site da Neural Games no GitHub Pages: política de privacidade dos jogos e `app-ads.txt`.
+Site da Neural Pixel Play no GitHub Pages: política de privacidade dos jogos e `app-ads.txt`.
 
 | Arquivo | Para quê |
 |---|---|
